@@ -24,7 +24,7 @@ blockquote {padding: 0px 20px;margin: 0 0 20px;border-left: 5px solid #aaa;font-
 
 
 /*home*/
-.homeinfo{padding:250px 0 20px 0;}
+.homeinfo{padding:320px 0 20px 0;}
 .homeinfo .player{margin-top: 70px;position: relative;}
 .homeinfo .player img.graphics{position: absolute;bottom: 167px;right: -24px;}
 .blockblack{background:rgba(0,0,0,0.8); border-radius: 10px; padding: 25px; }
@@ -34,9 +34,9 @@ blockquote {padding: 0px 20px;margin: 0 0 20px;border-left: 5px solid #aaa;font-
 /*home*/
 
 /*color*/
-.bgcolor{background-color: #f2ab00;}
+.bgcolor{background-color:#005ce6;}
 .textcolor{color: #f2ab00;}
-a{color:#f2ab00; text-decoration:none}
+a{color:#0066ff; text-decoration:none}
 a:hover{color:#fff;text-decoration:none}
 /*color*/
 
