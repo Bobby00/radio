@@ -123,3 +123,15 @@ button.close{position: absolute;right: 0;background: #FFF;width: 25px;height: 25
 	.events ul li,.events ul li .date{background: none;}
 	.events ul li .date b{display: inline;font-size: 22px;border-right: 1px solid #333;padding-right: 10px;margin-right: 10px;}
 }
+.iconss {
+  font-size:25px;
+  margin-top:9%;
+  padding-left:10%;
+}
+.iconss:hover {
+  font-size:25px;
+  margin-top:9%;
+  padding-left:10%;
+  cursor: pointer;
+  color: #005ce6;
+}
